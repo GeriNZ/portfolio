@@ -15,7 +15,7 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 
 <center><img src="images/fraud_detection.jpg"/></center>
 
-<!-- 
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -135,4 +135,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-``` -->
+```
